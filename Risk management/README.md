@@ -12,7 +12,8 @@ a whole. When the project is divided in to different parts it's easier to see th
 possible risks. These parts can be for example the project's vision, scope, objects 
 and deliverables.
 
-Risk management can be divided into different tasks:
+There are different takes on risk management process but most of them follow rouhgly 
+this process below:
 
 1. Identify risks: Identify potential risks that could impact the project, such 
 as risks related to project scope, resources, stakeholders, technology, or external 
@@ -45,5 +46,18 @@ a risk includes involving the assigned owner for it.
 6. Monitor risks: Continuously monitor and control the identified risks throughout the project life cycle. Update the risk management plan as needed and take corrective action when necessary. Communication is the key in risk monitoring so regular meetings with all the stakeholders are necessary.
 Risk owner is mainly responsible for monitoring the risk, but project manager has to be on top of everything all the time. 
 
+Here is another example of a risk management process:
+
+<figure>
+    <img src="../images/Risk-Management-Process.jpg">
+    <figcaption>
+        Risk management process <br>
+        <i>Source: https://www.pmillustrated.com/2-3-manage-risks/</i>
+    </figcaption>
+</figure>
+
 Remember, effective risk management requires a proactive approach and ongoing communication and collaboration with stakeholders. By following these basic steps, you can help ensure that your project stays on track and achieves its objectives despite potential risks.
  
+
+ https://www.pmi.org/learning/library/risk-management-9096
+ https://www.projectmanager.com/blog/risk-management-process-steps
