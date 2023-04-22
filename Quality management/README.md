@@ -13,7 +13,7 @@ Quality management is a process to ensure that products or services meets custom
 ## The four main components of quality management
 
 1. Quality planning:
-- This is the first step of quality management. Identify your goals on the project, determine what your quality standards, the requirements to meet the standards and what actions should be made to get these criteria meet.
+This is the first step of quality management. Identify your goals on the project, determine what your quality standards, the requirements to meet the standards and what actions should be made to get these criteria meet.
 
 At this stage, you could consider the following:
     - What is your stakeholder's expectations and priorities?
