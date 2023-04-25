@@ -49,6 +49,7 @@ Risk owner is mainly responsible for monitoring the risk, but project manager ha
 <br/>
 <br/>
 Here is another example of a risk management process:
+<br/>
 
 <figure>
     <img src="../images/Risk-Management-Process.jpg">
@@ -66,5 +67,5 @@ Remember, effective risk management requires a proactive approach and ongoing co
 
 ### References and additional reading
  [Risk management](https://www.pmi.org/learning/library/risk-management-9096)
- 
+
  [Risk management process](https://www.projectmanager.com/blog/risk-management-process-steps)
