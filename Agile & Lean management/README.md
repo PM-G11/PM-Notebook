@@ -38,14 +38,14 @@ In lean methods 5 phases identifying value comes from the customer itself. Custo
 
 ### References and additional reading
 
-[https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html](https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html)
+[History of the agile methodology](https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html)
 
-[https://www.techtarget.com/searchcio/definition/Agile-project-management](https://www.techtarget.com/searchcio/definition/Agile-project-management)
+[Agile project management](https://www.techtarget.com/searchcio/definition/Agile-project-management)
 
-[https://business.adobe.com/blog/basics/agile](https://business.adobe.com/blog/basics/agile)
+[Beginner's guide to agile project management](https://business.adobe.com/blog/basics/agile)
 
-[https://www.pmi.org/learning/library/lean-project-management-7364#](https://www.pmi.org/learning/library/lean-project-management-7364#)
+[Lean project management](https://www.pmi.org/learning/library/lean-project-management-7364#)
 
-[https://uxdesign.cc/agile-design-process-24be92018ad2](https://uxdesign.cc/agile-design-process-24be92018ad2)
+[Agile design process](https://uxdesign.cc/agile-design-process-24be92018ad2)
 
-[https://blog.kainexus.com/the-fundamentals-of-the-lean-methodology](https://blog.kainexus.com/the-fundamentals-of-the-lean-methodology)
+[Fundamentals of the lean methodology](https://blog.kainexus.com/the-fundamentals-of-the-lean-methodology)
