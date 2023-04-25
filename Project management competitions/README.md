@@ -6,6 +6,8 @@ Project Management Competition is developed and planned in Finland by Projektiam
 
 IPMA also organizes International Global eCollaboration Competition (Gecco) where the project team members get chosen randomly from different countries. Gecco –competition is kept entirely online, and it lasts 24 hours. The teams get one topic that they will work with and within the given 24 hours the project must be done.  
 
+PMI Global doesn’t organize international competitions themselves but PMI Global’s sub-organizations arrange their own competitions. For example, Hong Kong’s case competition final was in January 2021. 36 teams participated in the competition. 
+
 <figure>
     <img src="../images/Gecco.jpg">
     <figcaption>
@@ -14,7 +16,7 @@ IPMA also organizes International Global eCollaboration Competition (Gecco) wher
     </figcaption>
 </figure>
 
-PMI Global doesn’t organize international competitions themselves but PMI Global’s sub-organizations arrange their own competitions. For example, Hong Kong’s case competition final was in January 2021. 36 teams participated in the competition. 
+
 
  
 
