@@ -43,4 +43,5 @@ After the quality control process is finished, review your findings carefully fr
 
 ### References and additional reading
 [Quality management: Definition and example](https://www.investopedia.com/terms/q/quality-management.asp)
+
 [Four main components of a quality management systmen](https://info.docxellent.com/blog/main-components-quality-management)

@@ -46,7 +46,8 @@ a risk includes involving the assigned owner for it.
 6. Monitor risks: Continuously monitor and control the identified risks throughout the project life cycle. Update the risk management plan as needed and take corrective action when necessary. Communication is the key in risk monitoring so regular meetings with all the stakeholders are necessary.
 Risk owner is mainly responsible for monitoring the risk, but project manager has to be on top of everything all the time. 
 
-
+<br/>
+<br/>
 Here is another example of a risk management process:
 
 <figure>
@@ -65,4 +66,5 @@ Remember, effective risk management requires a proactive approach and ongoing co
 
 ### References and additional reading
  [Risk management](https://www.pmi.org/learning/library/risk-management-9096)
+ 
  [Risk management process](https://www.projectmanager.com/blog/risk-management-process-steps)

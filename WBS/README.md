@@ -60,7 +60,8 @@ those tasks should have at least a rough time estimate.
     <img src="../images/simple_gantt.png" alt="simple GANTT chart">
     <figcaption>Simple GANTT chart</figcaption>
 </figure>
-
+<br/>
+<br/>
 <figure>
     <img src="../images/gantt.png" alt="GANTT chart">
     <figcaption>

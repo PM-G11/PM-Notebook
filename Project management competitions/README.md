@@ -60,7 +60,7 @@ In addition to offering a means for recognizing excellence in project management
 
  
 
-### Sources and additional reading:
+### References and additional reading:
 
 [Hanel, C. (2019) What is the "International Project Management Championship"](https://www.ipma.world/news/what-is-the-international-project-management-championship-short-ipmc/) (Accessed: January 23, 2023). 
 
