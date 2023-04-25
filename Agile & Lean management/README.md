@@ -12,9 +12,11 @@ Agile project management is one of many ways to manage a project. It is an itera
     </figcaption>
 </figure>
 
+<br/>
+<br/>
 <style>
 div {
-  padding: 50px;
+  padding: 70px;
 }
 </style>
 Unlike waterfall model in agile the team can change things between phases. The project is divided into smaller parts called sprints. Sprints are shorter in time and the goal is smaller in scope. Between these sprints the team reviews what they have accomplished and set new goals for upcoming sprints. These sprints allow the team to get feedback from the customer in a smaller timeframe and implement the required changes to the final product. In turn this also means that the customer itself is also more involved in the process. Having smaller goals means that the team can see the progress quicker than in other methods.
