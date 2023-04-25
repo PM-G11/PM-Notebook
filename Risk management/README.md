@@ -63,6 +63,6 @@ Remember, effective risk management requires a proactive approach and ongoing co
  
 
 
-## Sources
- https://www.pmi.org/learning/library/risk-management-9096
- https://www.projectmanager.com/blog/risk-management-process-steps
+### References and additional reading
+ [Risk management](https://www.pmi.org/learning/library/risk-management-9096)
+ [Risk management process](https://www.projectmanager.com/blog/risk-management-process-steps)

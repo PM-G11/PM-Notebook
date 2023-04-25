@@ -33,7 +33,7 @@ Waterfall management style is mostly designed and used for larger companies thus
 
 Missing even a single deadline or changing the scope during waterfall causes enormous impacts because there's so many parts to projects where we must take care of the quality as well. When we only dedicate our work towards next phase then the testing part and fixing part gets out shadowed and down the line can cause the entire project to fail.
 
-### Sources:
+### References and additional reading:
 
 [https://softwaredominos.com/home/software-design-development-articles/waterfall-project-management-a-brief-history-and-introduction/](https://softwaredominos.com/home/software-design-development-articles/waterfall-project-management-a-brief-history-and-introduction/)
 

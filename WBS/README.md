@@ -69,9 +69,9 @@ those tasks should have at least a rough time estimate.
     </figcaption>
 </figure>
 
-## Sources
 
-## Additional reading
+
+### References and additional reading
 
 [The work breakdown structure (WBS) for project management: What it is and how
 to use it](https://asana.com/resources/work-breakdown-structure)

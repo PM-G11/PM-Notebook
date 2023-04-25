@@ -34,7 +34,7 @@ budget and are completed on time.
   team is working on at all times this could result in micromanagement and lack
   of trust between the project manager and the team.
 
-## Sources
+### References and additional reading
 
 [Why use project management software](https://thedigitalprojectmanager.com/projects/why-use-project-management-software-benefits/)
 

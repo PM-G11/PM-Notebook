@@ -60,14 +60,14 @@ In addition to offering a means for recognizing excellence in project management
 
  
 
-## Sources and additional reading:
+### Sources and additional reading:
 
-Hanel, C. (2019) What is the "International Project Management Championship" (short IPMC)?, IPMA International Project Management Association. Available at: https://www.ipma.world/news/what-is-the-international-project-management-championship-short-ipmc/ (Accessed: January 23, 2023). 
+[Hanel, C. (2019) What is the "International Project Management Championship"](https://www.ipma.world/news/what-is-the-international-project-management-championship-short-ipmc/) (Accessed: January 23, 2023). 
 
-https://www.projektimaailma.fi/artikkelit/vuoden_2021_ipma_project_management_championship_suomen_voittaja_on_selvilla.1525.news 
+[Suomen karsinnan voittaja IPMA:n kilpailussa](https://www.projektimaailma.fi/artikkelit/vuoden_2021_ipma_project_management_championship_suomen_voittaja_on_selvilla.1525.news )
 
-https://www.ipma.world/ipma-young-crew/competitions-and-events/ 
+[IPMA events and competitions](https://www.ipma.world/ipma-young-crew/competitions-and-events/) 
 
-https://en.talaia-openppm.com/competitive-advantage-with-project-management/ 
+[Quality of project management and competition between companies](https://en.talaia-openppm.com/competitive-advantage-with-project-management/) 
 
-https://www.emerald.com/insight/content/doi/10.1108/IJMPB-02-2020-0042/full/html 
+[Quality of project management and competition between companies](https://www.emerald.com/insight/content/doi/10.1108/IJMPB-02-2020-0042/full/html) 

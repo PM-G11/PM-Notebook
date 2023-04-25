@@ -41,6 +41,6 @@ Independent audits must be conducted frequently as part of quality assurance. T
 After the quality control process is finished, review your findings carefully from the last 3 components and come up with a way to improve your methods going forward. If you are unwilling to make adjustments when they are required, quality control management will be ineffective. Every successful business strives for constant improvement.
 
 
-## Sources
-https://www.investopedia.com/terms/q/quality-management.asp
-https://info.docxellent.com/blog/main-components-quality-management
+### References and additional reading
+[Quality management: Definition and example](https://www.investopedia.com/terms/q/quality-management.asp)
+[Four main components of a quality management systmen](https://info.docxellent.com/blog/main-components-quality-management)

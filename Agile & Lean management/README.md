@@ -4,9 +4,15 @@ Agile project management is one of many ways to manage a project. It is an itera
 
 # Phases
 
-![](RackMultipart20230424-1-t8i8k1_html_b95999e5a302cc8d.png)
+<figure>
+    <img src="../images/waterfall-vs-agile.png">
+    <figcaption>
+         Waterfall vs. agile method<br>
+        <i>Source: https://www.nimblework.com/wp-content/uploads/2022/12/waterfall-vs-agile-2.webp</i>
+    </figcaption>
+</figure>
 
-source: [https://www.nimblework.com/wp-content/uploads/2022/12/waterfall-vs-agile-2.webp](https://www.nimblework.com/wp-content/uploads/2022/12/waterfall-vs-agile-2.webp)
+
 
 Unlike waterfall model in agile the team can change things between phases. The project is divided into smaller parts called sprints. Sprints are shorter in time and the goal is smaller in scope. Between these sprints the team reviews what they have accomplished and set new goals for upcoming sprints. These sprints allow the team to get feedback from the customer in a smaller timeframe and implement the required changes to the final product. In turn this also means that the customer itself is also more involved in the process. Having smaller goals means that the team can see the progress quicker than in other methods.
 
@@ -16,13 +22,19 @@ Hybrid method is a mix between both agile and waterfall methods. Waterfall is us
 
 ## Lean method
 
-![](RackMultipart20230424-1-t8i8k1_html_7b4309b32f0ec6f7.png)
+<figure>
+    <img src="../images/lean-project-management.png">
+    <figcaption>
+         Lean method<br>
+        <i>Source: https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/4/74ee6d1b6222545b259c3ffd3aa5dfdedc45af8955a8218ebb9121eaf2a1ffab/lean-project-management-slide1.png </i>
+    </figcaption>
+</figure>
 
-source: [https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/4/74ee6d1b6222545b259c3ffd3aa5dfdedc45af8955a8218ebb9121eaf2a1ffab/lean-project-management-slide1.png](https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/4/74ee6d1b6222545b259c3ffd3aa5dfdedc45af8955a8218ebb9121eaf2a1ffab/lean-project-management-slide1.png)
+
 
 In lean methods 5 phases identifying value comes from the customer itself. Customer is the one that defines the value of the product. Mapping the value stream is seeing what is necessary in the process and optimizing it. Making that stream flow without any problems or interruptions is also a core part of the method. While using the lean method it's also essential to not do anything that is not asked or planned for.
 
-sources:
+### References and additional reading
 
 [https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html](https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html)
 
