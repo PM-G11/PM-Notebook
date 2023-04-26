@@ -35,7 +35,7 @@ Missing even a single deadline or changing the scope during waterfall causes eno
 
 ### References and additional reading:
 
-[INtroduction to waterfall project management method](https://softwaredominos.com/home/software-design-development-articles/waterfall-project-management-a-brief-history-and-introduction/)
+[Introduction to waterfall project management method](https://softwaredominos.com/home/software-design-development-articles/waterfall-project-management-a-brief-history-and-introduction/)
 
 [Agile vs. waterfall project management](https://www.atlassian.com/agile/project-management/project-management-intro)
 
