@@ -1,9 +1,9 @@
 # Work Breakdown Structure (WBS)
 
-WBS is a visual tool used to break a project into smaller pieces. It starts from
+WBS is a visual tool used to break a project into smaller pieces. It starts with
 the project goal and breaks it into smaller tasks until every task required to
 complete the project is listed. This helps to identify needed resources and
-total work required to complete the project.
+the total work required to complete the project.
 
 <figure>
     <img src="../images/wbs.jpg" alt="WBS diagram">
@@ -13,7 +13,7 @@ total work required to complete the project.
 ## Steps for creating a WBS
 
 1. Start by breaking down the project into its major tasks and activities. These
-   should be the highest level tasks that you need to complete for the project to
+   should be the highest-level tasks that you need to complete for the project to
    be successful.
 2. Decompose each major task into its component tasks and activities. This
    decomposition should keep going until tasks can no longer be broken down into
@@ -50,7 +50,7 @@ path.
 
 # GANTT chart
 
-A GANTT chart is a visual representation of the projects tasks compared to time.
+A GANTT chart is a visual representation of the project's tasks compared to time.
 A simple GANTT chart could be just a vertical bar chart, but it is also possible
 to add extra information for example milestones and the critical path of the
 project. To create a GANTT, the project must first be broken down into tasks and

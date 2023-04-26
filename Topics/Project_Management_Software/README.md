@@ -3,14 +3,14 @@
 Project management software is designed to help project managers and teams plan,
 organize, estimate, track, and deliver projects more efficiently. These tools
 provide a centralized platform for managing project information and tasks, this
-can help teams work more effectively together and ensure that projects stay in
+can help teams work more effectively together and ensure that projects stay within
 budget and are completed on time.
 
 ## Basic features
 
 - **Task Management**: Create, assign and track tasks.
 - **Time Management**: Evaluate and track the project.
-- **Integration**: Integrate tools for streamlined workflow.
+- **Integration**: Integrate tools for a streamlined workflow.
 - **Project Reports**: Generate reports from project data.
 - **Collaboration**: Keep the whole team up to date with each other.
 

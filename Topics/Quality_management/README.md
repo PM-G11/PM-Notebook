@@ -1,6 +1,6 @@
 # Quality management
 
-Quality management is a process to ensure that products or services meets customer expectations. It involves continuous improvement of processes, systems, and policies to enhance the quality of output. Quality management also includes setting and measuring performance standards and implementing corrective actions when necessary.
+Quality management is a process to ensure that products or services meet customer expectations. It involves continuous improvement of processes, systems, and policies to enhance the quality of output. Quality management also includes setting and measuring performance standards and implementing corrective actions when necessary.
 
 <figure>
     <img src="../images/Four_components_QA.png">
@@ -13,24 +13,24 @@ Quality management is a process to ensure that products or services meets custom
 ## The four main components of quality management
 
 1. Quality planning:
-This is the first step of quality management. Identify your goals on the project, determine what your quality standards, the requirements to meet the standards and what actions should be made to get these criteria meet.
+This is the first step of quality management. Identify your goals on the project, determine your quality standards, the requirements to meet the standards and what actions should be made to get these criteria meet.
 
 At this stage, you could consider the following:
-    - What is your stakeholder's expectations and priorities?
+    - What are your stakeholder's expectations and priorities?
     - What legal standards or requirements must be followed?
     - Who will handle each role in the quality management process?
     - How often processes will be evaluated?
 
-2. Quality control:
-This step is to physically inspect and test to ensure that what you outlined during the planning stage.
-    - Confirm that all the standard you have put into place are met.
+1. Quality control:
+This step is to physically inspect and test what you outlined during the planning stage.
+    - Confirm that all the standards you have put into place are met.
     - Identify any mishaps or errors that need to be corrected.
     - Pay close attention to every element of the product, including the parts used and the assembly process.
 
 The sooner you catch the flaws, the better. Once the inspection information has been collected, it makes it easier to analyze. You can now, for example, create histograms or run charts and share them with your team members via the project management software so they can review them.
 
-3. Quality assurance:
-The quality assurance is to review the delivery process of service. By inspecting it, you can catch the faults before delivering it to the customer.
+1. Quality assurance:
+Quality assurance is to review the delivery process of service. By inspecting it, you can catch the faults before delivering it to the customer.
     - Verify that everything is functioning as it was intended during the quality planning stage.
     - Analyze the efficiency of your predetermined processes and verify that all requirements for compliance are being met.
     - Determine the areas where a smoother process on the project might be possible.
@@ -44,4 +44,8 @@ After the quality control process is finished, review your findings carefully fr
 ### References and additional reading
 [Quality management: Definition and example](https://www.investopedia.com/terms/q/quality-management.asp)
 
-[Four main components of a quality management systmen](https://info.docxellent.com/blog/main-components-quality-management)
+[Four main components of a quality management system](https://info.docxellent.com/blog/main-components-quality-management)
+
+[American Society for Quality's website with a large variety of resources](https://asq.org/)
+
+[Quality glossary](https://asq.org/quality-resources/quality-glossary)

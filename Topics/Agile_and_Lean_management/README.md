@@ -1,6 +1,6 @@
 # Agile & lean project management
 
-Agile project management is one of many ways to manage a project. It is an iterative method, meaning that the team can fit in changes and give feedback throughout the process. Agile method first got its start in 2000 with 17 software developers. While it was introduced in 2000s agile method gained popularity in 2010s
+Agile project management is one of many ways to manage a project. It is an iterative method, meaning that the team can fit in changes and give feedback throughout the process. The agile method first got its start in 2000 with 17 software developers. While it was introduced in the 2000s agile method gained popularity in the 2010s
 
 # Phases
 
@@ -13,13 +13,11 @@ Agile project management is one of many ways to manage a project. It is an itera
 </figure>
 
 <br/>
-<br/>
-
-Unlike waterfall model in agile the team can change things between phases. The project is divided into smaller parts called sprints. Sprints are shorter in time and the goal is smaller in scope. Between these sprints the team reviews what they have accomplished and set new goals for upcoming sprints. These sprints allow the team to get feedback from the customer in a smaller timeframe and implement the required changes to the final product. In turn this also means that the customer itself is also more involved in the process. Having smaller goals means that the team can see the progress quicker than in other methods.
+Unlike the waterfall model in agile the team can change things between phases. The project is divided into smaller parts called sprints. Sprints are shorter in time and the goal is smaller in scope. Between these sprints, the team reviews what they have accomplished and set new goals for upcoming sprints. These sprints allow the team to get feedback from the customer in a smaller timeframe and implement the required changes to the final product. In turn, this also means that the customer itself is also more involved in the process. Having smaller goals means that the team can see the progress quicker than in other methods.
 
 ## Hybrid method
 
-Hybrid method is a mix between both agile and waterfall methods. Waterfall is used to plan the high-level phases while agile is used for tasks. Waterfall allows the project to have a clear deadline and milestones. Using Agile in hybrid method allows the team to break the project into smaller more manageable parts.
+The hybrid method is a mix of both agile and waterfall methods. Waterfall is used for planning the high-level phases while agile is used for tasks. Waterfall allows the project to have a clear deadline and milestones. Using Agile in a hybrid method allows the team to break the project into smaller more manageable parts.
 
 ## Lean method
 
@@ -34,7 +32,7 @@ Hybrid method is a mix between both agile and waterfall methods. Waterfall is us
 <br/>
 <br/>
 
-In lean methods 5 phases identifying value comes from the customer itself. Customer is the one that defines the value of the product. Mapping the value stream is seeing what is necessary in the process and optimizing it. Making that stream flow without any problems or interruptions is also a core part of the method. While using the lean method it's also essential to not do anything that is not asked or planned for.
+In lean methods 5 phases identifying value comes from the customer itself. The customer is the one that defines the value of the product. Mapping the value stream is seeing what is necessary in the process and optimizing it. Making that stream flow without any problems or interruptions is also a core part of the method. While using the lean method it's also essential to not do anything that is not asked or planned for.
 
 ### References and additional reading
 

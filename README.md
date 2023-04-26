@@ -12,8 +12,8 @@ Here is a list of topics you can currently read about:
 - [Risk Management](./Topics/Risk_management/README.md)
 - [WBS](./Topics/WBS/README.md)
 - [Waterfall Management](./Topics/Waterfall_management/README.md)
-- [Here some other sources](./Other/README.md)
+- [Here are some other sources](./Other/README.md)
 
-This notebook is written by students, and it is mostly aimed for other students.
+This notebook is written by students, and it is mostly aimed at other students.
 Feel free to use this information for your own project management needs and if
 you find something to add or edit, don't be shy and create a pull request!
