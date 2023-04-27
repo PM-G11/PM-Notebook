@@ -12,23 +12,50 @@ Quality management is a process to ensure that products or services meet custome
 
 ## The four main components of quality management
 
-1. Quality planning:
-   This is the first step of quality management. Identify your goals on the project, determine your quality standards, the requirements to meet the standards and what actions should be made to get these criteria meet.
+1. Quality planning: This is the first step of quality management. Identify your
+   goals on the project, determine your quality standards, the requirements to meet
+   the standards and what actions should be made to get these criteria meet.
 
-At this stage, you could consider the following: - What are your stakeholder's expectations and priorities? - What legal standards or requirements must be followed? - Who will handle each role in the quality management process? - How often processes will be evaluated?
+   At this stage, you could consider the following:
 
-2. Quality control:
-   This step is to physically inspect and test what you outlined during the planning stage. - Confirm that all the standards you have put into place are met. - Identify any mishaps or errors that need to be corrected. - Pay close attention to every element of the product, including the parts used and the assembly process.
+   - What are your stakeholder's expectations and priorities?
+   - What legal standards or requirements must be followed?
+   - Who will handle each role in the quality management process?
+   - How often processes will be evaluated?
 
-The sooner you catch the flaws, the better. Once the inspection information has been collected, it makes it easier to analyze. You can now, for example, create histograms or run charts and share them with your team members via the project management software so they can review them.
+2. Quality control: This step is to physically inspect and test what you
+   outlined during the planning stage.
 
-3. Quality assurance:
-   Quality assurance is to review the delivery process of service. By inspecting it, you can catch the faults before delivering it to the customer. - Verify that everything is functioning as it was intended during the quality planning stage. - Analyze the efficiency of your predetermined processes and verify that all requirements for compliance are being met. - Determine the areas where a smoother process on the project might be possible.
+   - Confirm that all the standards you have put into place are met.
+   - Identify any mishaps or errors that need to be corrected.
+   - Pay close attention to every element of the product, including the parts
+     used and the assembly process.
 
-Independent audits must be conducted frequently as part of quality assurance. The audit should be carried out by a third party who has no financial or emotional stake in the outcome if you want the best outcomes.
+   The sooner you catch the flaws, the better. Once the inspection information
+   has been collected, it makes it easier to analyze. You can now, for example,
+   create histograms or run charts and share them with your team members via the
+   project management software so they can review them.
 
-4. Quality improvement:
-   After the quality control process is finished, review your findings carefully from the last 3 components and come up with a way to improve your methods going forward. If you are unwilling to make adjustments when they are required, quality control management will be ineffective. Every successful business strives for constant improvement.
+3. Quality assurance: Quality assurance is to review the delivery process of
+   service. By inspecting it, you can catch the faults before delivering it to the
+   customer.
+
+   - Verify that everything is functioning as it was intended during the
+     quality planning stage.
+   - Analyze the efficiency of your predetermined processes and verify that all
+     requirements for compliance are being met.
+   - Determine the areas where a smoother process on the project might be
+     possible.
+
+   Independent audits must be conducted frequently as part of quality assurance.
+   The audit should be carried out by a third party who has no financial or
+   emotional stake in the outcome if you want the best outcomes.
+
+4. Quality improvement: After the quality control process is finished, review
+   your findings carefully from the last 3 components and come up with a way to
+   improve your methods going forward. If you are unwilling to make adjustments
+   when they are required, quality control management will be ineffective. Every
+   successful business strives for constant improvement.
 
 ### References and additional reading
 
