@@ -68,6 +68,6 @@ In addition to offering a means for recognizing excellence in project management
 
 [IPMA events and competitions](https://www.ipma.world/ipma-young-crew/competitions-and-events/) 
 
-[Quality of project management and competition between companies](https://en.talaia-openppm.com/competitive-advantage-with-project-management/) 
+[Competitive advantage with Project Management](https://en.talaia-openppm.com/competitive-advantage-with-project-management/) 
 
-[Quality of project management and competition between companies](https://www.emerald.com/insight/content/doi/10.1108/IJMPB-02-2020-0042/full/html) 
+[The value of project management to competitiveness: key factors from a holistic and practical perspective](https://www.emerald.com/insight/content/doi/10.1108/IJMPB-02-2020-0042/full/html) 
