@@ -10,7 +10,7 @@ Here is a list of topics you can currently read about:
 - [Project Management Competitions](./Topics/Project_management_competitions/README.md)
 - [Quality Management](./Topics/Quality_management/README.md)
 - [Risk Management](./Topics/Risk_management/README.md)
-- [WBS](./Topics/WBS/README.md)
+- [Work Breakdown Structure](./Topics/WBS/README.md)
 - [Waterfall Management](./Topics/Waterfall_management/README.md)
 - [Here are some other sources](./Other/README.md)
 
